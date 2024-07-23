@@ -25,3 +25,15 @@ O objetivo deste repositório é fornecer exemplos práticos de POO em Python pa
 
 ### 5. Classe de Biblioteca
 - **Descrição**: Classe `Biblioteca` que gerencia um catálogo de livros
+
+### 6. Classe de Carro
+- **Descrição**: Classe `Carro` que gerencia informações e operações de um carro.
+
+### 7. Classe de Pessoa
+- **Descrição**: Classe `Pessoa` que gerencia informações pessoais e a saudação.
+
+### 8. Classe de Calculadora
+- **Descrição**: Classe `Calculadora` que executa operações básicas de adição, subtração, multiplicação e divisão.
+
+### 9. Classe de Produto
+- **Descrição**: Classe `Produto` que gerencia o estoque de um produto.
